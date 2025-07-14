@@ -68,9 +68,9 @@ Welcome to my GitHub! I am passionate about combining advanced mathematics, mach
 ### 📫 **Let's Connect**
 
 - **Email:** mkhan37@stevens.edu | amirk2317@gmail.com
-- **LinkedIn:** [MD Amir Khan](https://www.linkedin.com/in/your-link)
-- **Portfolio:** [My Portfolio](https://your-portfolio-link.com)
-- **GitHub:** [@your-github-username](https://github.com/your-github-username)
+- **LinkedIn:** [MD Amir Khan](https://www.linkedin.com/in/amirkhan2317)
+- **Portfolio:** [My Portfolio](https://www.datascienceportfol.io/mkhan37)
+- **GitHub:** [@your-github-username](https://github.com/Mkhan2317?tab=repositories)
 
 ---
 
