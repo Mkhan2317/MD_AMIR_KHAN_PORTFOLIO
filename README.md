@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD Amir Khan
 
-## 🧑‍💻 Quantitative Researcher | Financial Engineer | AI-driven Trading Enthusiast
+## 🧑‍💻 Quantitative Researcher | Portfolio Analyst  | Financial Engineer | AI-driven Trading Enthusiast
 
 Welcome to my GitHub! I am passionate about combining advanced mathematics, machine learning, and algorithmic trading to build robust, innovative solutions in finance. With a strong academic foundation and hands-on experience designing quantitative strategies and financial AI agents, I strive to bridge the gap between research and real-world trading systems.
 
